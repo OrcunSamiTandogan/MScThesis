@@ -13,7 +13,7 @@ Source: Human Protein Atlas
 Link: https://www.proteinatlas.org/about/assays+annotation#singlecell_rna
 Download this and copy paste to "process_0/data"
 
-Environment Name: bilimnn
+You can create your own virtual environment by requirements.txt 
 
 Anytime for fresh start, you can use these: 
 find . -type f -name "*.pkl" -delete 
