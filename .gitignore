@@ -1,0 +1,8 @@
+# Ignore bilimnn folder
+bilimnn/
+# Ignore large data files
+process_0/data/blood_atlas_of_COVID.h5ad
+process_0/data/rna_single_cell_type.tsv
+process_0/checkpoint/
+# Ignore .DS_Store files
+.DS_Store
